@@ -11,7 +11,7 @@ Our first insider threat has lead to a second insider. We haven't found any clue
 Link for the challenge file:
 
 ```
-
+https://www.mediafire.com/file/7y1pv38jn9ctcln/goodluks2.7z/file
 ```
 
 The challenge only gives us a .7z file with a disk image inside from the challenge indicator it is clear that we have to crack a Luks password from the drive
