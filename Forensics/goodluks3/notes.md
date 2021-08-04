@@ -8,6 +8,10 @@
 Our third suspect was caught with a running machine with the encrypted disk mounted. We captured the whole hard drive and system memory for you. Can you help us?
 ```
 
+# Challenge file Link: ##
+
+https://www.mediafire.com/file/uy0m7eja8zy8un2/goodluks3.7z/file
+
 Solution:
 
 As always we get a .7z file with the hard drive image(.img file) and a mem dump(.mem file)
